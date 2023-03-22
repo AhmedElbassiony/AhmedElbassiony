@@ -24,7 +24,7 @@ A laboratory application provides multiple marketing services both for the owner
 Or for the owners of the laboratories to access all their medical needs in an easier and faster way and without any cost or intermediary.
 My lab application gives the opportunity to reach qualified people and the required competencies to fill their jobs.
 The application offers a helping hand to job seekers in the field of medical laboratories.This is in order to make the communication process more direct and faster.
-TECHNOLOGIES: Laravel – MySQL DB – REST API 
+<b>TECHNOLOGIES:</b> Laravel – MySQL DB – REST API 
 <p><a href="https://play.google.com/store/apps/details?id=com.m3maly.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D9%85%D8%B9%D9%85%D9%84%D9%8A/id1660000465" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
@@ -34,9 +34,8 @@ TECHNOLOGIES: Laravel – MySQL DB – REST API
 
 Vinalda is an automated billing system designed to generate and send invoices, track and process payments.
   
-TECHNOLOGIES: Laravel – MySQL DB – REST API 
+<b>TECHNOLOGIES:</b> Laravel – MySQL DB – REST API 
 
-<p><a href="https://play.google.com/store/apps/details?id=com.branditta.highburger" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
 
 <hr>
 
